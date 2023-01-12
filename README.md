@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ishika kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXU0S1lCenZBMFo1ZDFwWEJZSWhHOC1OUEhGd3xBQ3Jtc0trdWdSQ0xYZVdPM0ZPWlZCWmNhc2FPVDZtanZrbU8zc0xsNWJOejNXakVOWmNZMl9kZDRPZm1DcFZyVzJFc0RJbFl6NU5xbm1TcGdoMmpoVWVXTWdPYUdqNVZRZFQwQ3NRZWZtNTloZGhNejRoaUxMQQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw1FZu7z0-dDNrF0X9XzEyVx&ust=1673632089027000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCf_cjLwvwCFQAAAAAdAAAAABAI">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishika-kumari-dscet&label=Profile%20views&color=0e75b6&style=flat" alt="ishika-kumari-dscet" /> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **css,bootstrap,javascript**
 
 - 📫 How to reach me **ishikag705@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ishika kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishika kumari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishika(ishu)kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishika(ishu)kumari" height="30" width="40" /></a>
 <a href="https://fb.com/ishika gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishika gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/ishikagupta2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishikagupta2702" height="30" width="40" /></a>
 </p>
@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishika-kumari-dscet&show_icons=true&locale=en" alt="ishika-kumari-dscet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishika-kumari-dscet&" alt="ishika-kumari-dscet" /></p>
+
+
+
